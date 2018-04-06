@@ -1,0 +1,7 @@
+﻿Trójkąt zarządzania - trójkąt zarządzania to czas, pieniądze i zakres. Razem składają się one na jakość, nie można zmienić jednego bez straty na dwóch innych, czyli: zmniejszając czas na ukończenie projektu zwiększy się jego końcowa cena i zmniejszy zakres jaki zostanie opracowany; zwiększając zakres projektu wzrasta zapotrzebowanie na fundusze do jego ukończenia i potrzeba na to więcej czasu itd
+
+Blueprint to teoretyczny opis projektu, obejmujący potrzebne procesy biznesowe, opis rozwiązania jakie ma zostać wdrożone przez projekt
+
+Sponsor projektu i inne role - sponsorem projektu jest wysoko postawiona osoba w firmie, w której najlepszym interesie jest to, by projekt przebiegał jak najlepiej - może rozmawiać z członkami innych komórek organizacyjnych w firmie aby udzielili wsparcia finansowego lub w zasobach ludzkich. Sponsor projektu wyznacza kierownika projektu, który ma za zadanie koordynować działania zespołu odpowiedzialnego za projekt
+
+Kick off - spotkanie początkowe projektu, na którym zostają omówione wszystkie jego założenia, członkom zespołu odpowiedzialnego za projekt zostają przydzielone role
